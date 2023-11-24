@@ -15,7 +15,7 @@ const ProjectsData = [
 		tags: ["HTML", "CSS", "Javascript", "React Js", "MongoDb", "Node Js", "Express Js",],
 		github: "https://github.com/chayan0roy/grocery_web",
 		hosting: "https://grocery-shop-web.netlify.app/",
-		des: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+		des: "Glocessary Store is based on an e-commerce web-application. It is developed by MERN Stack. Customers can buy their favorite products or save them for future purchases and also a shop owner can open a shop account and sell his products through this website. Shop owner can get order from online."
 	},
 	{
 		title: "Gift House",
@@ -24,7 +24,7 @@ const ProjectsData = [
 		tags: ["HTML", "CSS", "Javascript", "React Js", "MongoDb", "Node Js", "Express Js",],
 		github: "https://github.com/chayan0roy/gift_house",
 		hosting: "https://gift-house-web.netlify.app/",
-		des: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+		des: "Gift House is based on an e-commerce web-application. It is developed by MERN Stack. Customers can buy their favorite products or save them for future purchases and custemer can order from online."
 	},
 	{
 		title: "IT Exam Web",
@@ -33,7 +33,7 @@ const ProjectsData = [
 		tags: ["HTML", "CSS", "Javascript", "React Js", "MongoDb", "Node Js", "Express Js",],
 		github: "https://github.com/chayan0roy/it_exam_web",
 		hosting: "https://it-exam-web.netlify.app/",
-		des: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+		des: "IT Exam Web is developed by MERN Stack. It has 100+ MCQ questions of html, CSS, Javascript, React JS, MongoDB, Node js, Express JS & Bootstrap also It has 50+ Coding related question of Javascript & React JS and 50+ Output related question of Javascript & React JS."
 	},
 	{
 		title: "Password Generator",
@@ -42,7 +42,7 @@ const ProjectsData = [
 		tags: ["HTML", "CSS", "JS"],
 		github: "https://github.com/chayan0roy/Own_Password_Generator",
 		hosting: "https://chayan0roy.github.io/Own_Password_Generator/",
-		des: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+		des: "Password Generator is developed by HTML CSS & Javascript. User can choose the length of password, and here 4 type of checkbox (1)Uppercase, (2).Lowercase, (3).Number, & (4). Special Symbol. User can easily generate and copy password"
 	},
 	{
 		title: "Quiz Web",
@@ -51,7 +51,7 @@ const ProjectsData = [
 		tags: ["HTML", "CSS", "JS"],
 		github: "https://github.com/chayan0roy/Quiz_Web",
 		hosting: "https://chayan0roy.github.io/Quiz_Web/",
-		des: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+		des: "Quiz Web is developed by HTML CSS & Javascript. It has 100+ MCQ questions of html. It has a timer and user must give answer between the time. if user can not give answer then automatic correct answer will shown"
 	},
 	{
 		title: "Rock paper scissor Game",
@@ -60,7 +60,7 @@ const ProjectsData = [
 		tags: ["HTML", "CSS", "JS"],
 		github: "https://github.com/chayan0roy/rock_paper_scissors",
 		hosting: "https://chayan0roy.github.io/rock_paper_scissors/",
-		des: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+		des: "Rock paper scissor Game is developed by HTML CSS & Javascript. User can play user vs computer. To make this gaming website i use many types of javascript functons and logic."
 	},
 	{
 		title: "Tic Tac Toe Game",
@@ -69,7 +69,7 @@ const ProjectsData = [
 		tags: ["HTML", "CSS", "JS"],
 		github: "https://github.com/chayan0roy/Tic_Tac_Toy_Game",
 		hosting: "https://chayan0roy.github.io/Tic_Tac_Toy_Game/",
-		des: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+		des: "Tic Tac Toe Game is developed by HTML CSS & Javascript. User can play user vs computer. To make this gaming website i use many types of javascript functons and logic."
 	}
 ];
 export default ProjectsData;
